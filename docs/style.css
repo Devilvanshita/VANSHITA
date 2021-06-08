@@ -112,6 +112,7 @@ footer {
     display: inline;
     margin-left: 0 !important;
     padding: 0;
+     text-align:center;
   }
   
   ul.social-network li {
