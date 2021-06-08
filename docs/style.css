@@ -124,23 +124,25 @@ footer {
   
   .social-network a.icoFacebook:hover {
     background-color: #3B5998;
-      item-align: center;
+      text-align: center;
   }
   
   .social-network a.icoLinkedin:hover {
     background-color: #007bb7;
-       item-align: center;
+       text-align: center;
   }
   
   .social-network a.icoFacebook:hover i,
   .social-network a.icoLinkedin:hover i {
     color: #fff;
-       item-align: center;
+       text-align: center;
   }
   
   .social-network a.socialIcon:hover,
   .socialHoverClass {
     color: #44BCDD;
+       text-align: center;
+      
   }
   
   .social-circle li a {
