@@ -111,7 +111,7 @@ footer {
     list-style: none;
     display: inline;
     padding: 0;
-    item-align: center;
+    text-align: center;
   }
   
   ul.social-network li {
@@ -124,15 +124,18 @@ footer {
   
   .social-network a.icoFacebook:hover {
     background-color: #3B5998;
+      item-align: center;
   }
   
   .social-network a.icoLinkedin:hover {
     background-color: #007bb7;
+       item-align: center;
   }
   
   .social-network a.icoFacebook:hover i,
   .social-network a.icoLinkedin:hover i {
     color: #fff;
+       item-align: center;
   }
   
   .social-network a.socialIcon:hover,
