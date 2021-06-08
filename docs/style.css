@@ -111,7 +111,7 @@ footer {
     list-style: none;
     display: inline;
     padding: 0;
-    text-align: center;
+    vertical-align: center;
   }
   
   ul.social-network li {
@@ -124,24 +124,24 @@ footer {
   
   .social-network a.icoFacebook:hover {
     background-color: #3B5998;
-      text-align: center;
+      vertical-align: center;
   }
   
   .social-network a.icoLinkedin:hover {
     background-color: #007bb7;
-       text-align: center;
+       vertical-align: center;
   }
   
   .social-network a.icoFacebook:hover i,
   .social-network a.icoLinkedin:hover i {
     color: #fff;
-       text-align: center;
+       vertical-align: center;
   }
   
   .social-network a.socialIcon:hover,
   .socialHoverClass {
     color: #44BCDD;
-       text-align: center;
+       vertical-align: center;
       
   }
   
@@ -161,7 +161,7 @@ footer {
   .social-circle li i {
     margin: 0;
     line-height: 30px;
-    text-align: center;
+    verical-align: center;
   }
   
   .social-circle li a:hover i,
