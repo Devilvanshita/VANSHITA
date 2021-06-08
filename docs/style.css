@@ -110,7 +110,6 @@ footer {
   ul.social-network {
     list-style: none;
     display: inline;
-    margin-left: 0 !important;
     padding: 0;
      text-align:center;
   }
