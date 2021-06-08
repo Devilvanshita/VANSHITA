@@ -156,6 +156,7 @@ footer {
     width: 30px;
     height: 30px;
     font-size: 15px;
+      vertical-align: center;
   }
   
   .social-circle li i {
@@ -184,6 +185,7 @@ footer {
     -o-transition: all 0.8s;
     -ms-transition: all 0.8s;
     transition: all 0.8s;
+     vertical-align: center;
   }
   
   .social-network a {
